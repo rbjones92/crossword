@@ -13,4 +13,4 @@ Best possible letter found by finding most common letter intersection of all pos
 ## End Result DataFrames
 Run in terminal
 
-![Alt Text](run_in_terminal.JPG?raw=true "program run")
+![Alt Text](screenshots/run_in_terminal.JPG?raw=true "program run")
