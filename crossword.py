@@ -29,7 +29,7 @@ for word in all_words:
 ALL_WORDS = list(all_words.items())
 
 # Grid Size
-GRID_SIZE = 7
+GRID_SIZE = 6
 
 # Remove words that are too long
 df_all_words = pd.DataFrame(ALL_WORDS,columns=['word','len'])
